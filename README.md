@@ -1,42 +1,32 @@
 <p align="center">
-  <img src="assets/hello.svg" width="1120" alt="Hey, I'm Rakshak D. I work on AI, machine learning, and software." />
+  <img src="assets/hello.svg" width="100%" alt="Hey, I'm Rakshak D — AI, machine learning and software." />
 </p>
 
-### A little about me
+### `$ whoami`
 
-I'm **Rakshak**, an AI & Machine Learning engineering student at **Malnad College of Engineering, Hassan** (expected graduation: **2027**).
+**AI & ML student** · Malnad College of Engineering, Hassan · **2027**.
 
-I'm interested in retrieval, local models, and automation. I enjoy building things, testing how well they actually work, and figuring out what to improve.
+Building with **retrieval, local AI, and automation**—and interested in making software feel good to use.
 
-I enjoy both backend engineering and designing interfaces that are nice to use.
-
-**Lately:** experimenting with multimodal retrieval, testing boundaries for local agents, and giving old hardware another job.
-
-### A few things on my workbench
-
-- **[RAG-PDF](https://github.com/Rakshak-D/rag-pdf)** — an evolving document-understanding app, with text/image retrieval and evaluation work.
-- **[SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)** — SEO analysis that keeps deterministic checks separate from optional AI suggestions.
-- **[AURA](https://github.com/Rakshak-D/AURA)** — a self-hosted tasks-and-reminders app, exploring optional local AI.
-
-[More repositories](https://github.com/Rakshak-D?tab=repositories)
-
-### The toolbox
+### `$ ls ./work`
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="1120" alt="Selected tools: Python, TypeScript, SQL; PyTorch, Ollama, OpenCLIP; ChromaDB, PyMuPDF, SQLite; FastAPI, Django, pytest and Git." />
+  <a href="https://github.com/Rakshak-D/rag-pdf"><img src="assets/work-rag.svg" width="285" alt="RAG-PDF: multimodal PDF retrieval and evaluation" /></a>
+  <a href="https://github.com/Rakshak-D/SEO-Sensei"><img src="assets/work-seo.svg" width="285" alt="SEO-Sensei: deterministic SEO checks with optional AI" /></a>
+  <a href="https://github.com/Rakshak-D/AURA"><img src="assets/work-aura.svg" width="285" alt="AURA: self-hosted tasks, reminders and local AI" /></a>
 </p>
 
-<details>
-<summary>Toolbox in plain text</summary>
+[More projects](https://github.com/Rakshak-D?tab=repositories)
 
-- **Languages:** Python, TypeScript, SQL
-- **Models:** PyTorch, Ollama, OpenCLIP
-- **Retrieval & data:** ChromaDB, PyMuPDF, SQLite
-- **Build & test:** FastAPI, Django, pytest, Git
+### `$ ls ./toolbox`
 
-</details>
+<p align="center">
+  <img src="assets/toolbox.svg" width="100%" alt="Languages: Python, TypeScript, SQL. AI and ML: PyTorch, Ollama, OpenCLIP. Retrieval and data: ChromaDB, PyMuPDF, SQLite. Build and test: FastAPI, Django, pytest, Git." />
+</p>
 
-### Say hello
+### `$ ping ./contact`
 
-**[GitHub](https://github.com/Rakshak-D)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/rakshak-d/)**
-
+<p align="left">
+  <a href="https://github.com/Rakshak-D"><img src="assets/contact-github.svg" width="300" alt="GitHub: Rakshak-D" /></a>
+  <a href="https://www.linkedin.com/in/rakshak-d/"><img src="assets/contact-linkedin.svg" width="300" alt="LinkedIn: rakshak-d" /></a>
+</p>

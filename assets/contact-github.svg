@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="58" viewBox="0 0 300 58" role="img" aria-label="GITHUB Rakshak-D"><style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Courier New,Courier,monospace}.heavy{font-family:Arial,Helvetica,sans-serif;font-weight:900}</style>
+<rect x="1" y="1" width="298" height="56" rx="4" fill="#17221e" stroke="#17221e" stroke-width="2"/>
+<rect x="122" y="1" width="177" height="56" rx="3" fill="#cef568"/>
+<path d="M122 1V57" stroke="#f8f5ed" stroke-width="1" opacity=".25"/>
+<g transform="translate(18,17)" stroke="#f8f5ed" fill="none" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7l-6 6l6 6M21 7l6 6l-6 6"/><path d="M16 4l-5 18"/></g>
+<text x="52" y="35" class="mono" font-size="15" font-weight="bold" fill="#f8f5ed" letter-spacing=".4">GITHUB</text>
+<text x="140" y="36" class="sans" font-size="18" font-weight="bold" fill="#17221e">Rakshak-D</text></svg>

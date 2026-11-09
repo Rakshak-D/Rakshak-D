@@ -6,7 +6,7 @@
   .normal{font-family:Arial,Helvetica,sans-serif}
   .mono{font-family:'Courier New',Courier,monospace}
   .tick{animation:tick 9s linear infinite;transform-origin:930px 197px}
-  .wink{animation:wink 4.5s ease-in-out infinite}
+  .wink{animation:wink 10s ease-in-out infinite}
   @keyframes tick{to{transform:rotate(360deg)}}
   @keyframes wink{0%,89%,100%{opacity:1}92%,96%{opacity:.08}}
   @media (prefers-reduced-motion:reduce){.tick,.wink{animation:none}}

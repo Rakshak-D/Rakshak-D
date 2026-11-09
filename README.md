@@ -32,25 +32,10 @@ I build with **retrieval, local models, and automation**. I like testing what wo
 
 ## Tools of the trade
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.svg" />
-    <img src="assets/toolbox.svg" width="100%" alt="Selected languages, AI tools, retrieval tools, and app development technologies, grouped in four rows." />
-  </picture>
-</p>
-
-<details>
-<summary>Technology list</summary>
-
-**LANGUAGES**: Python · JavaScript · TypeScript · C++ · SQL
-
-**AI & LLMs**: PyTorch · Hugging Face · LangChain · Ollama · OpenCLIP · scikit-learn
-
-**RETRIEVAL & DATA**: ChromaDB · FAISS · PyMuPDF · SQLite · NumPy · Pandas
-
-**APPS & TOOLING**: FastAPI · Django · React · Docker · Git · pytest · GitHub Actions · n8n
-
-</details>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.svg" />
+  <img src="assets/toolbox.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript, C++, SQL. AI and LLMs: PyTorch, Hugging Face, LangChain, Ollama, OpenCLIP, scikit-learn. Retrieval and data: ChromaDB, FAISS, PyMuPDF, SQLite, NumPy, Pandas. Apps and tooling: FastAPI, Django, React, Docker, Git, pytest, GitHub Actions, n8n." />
+</picture>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -63,3 +48,5 @@ I build with **retrieval, local models, and automation**. I like testing what wo
   <a href="https://www.linkedin.com/in/rakshak-d/" title="LinkedIn profile"><img src="assets/contact-linkedin.svg" width="285" alt="LinkedIn — rakshak-d" /></a>
   <a href="https://www.instagram.com/31rakshak_d" title="Instagram profile"><img src="assets/contact-instagram.svg" width="285" alt="Instagram — 31rakshak_d" /></a>
 </p>
+
+<img src="assets/footer.svg" width="100%" alt="End of README. Side quests continue in the repos." />

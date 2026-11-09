@@ -1,16 +1,14 @@
-<!-- A deliberately small, hand-composed GitHub profile. No remote badges, counters, or stock GIFs. -->
-
 <p align="center">
-  <img src="assets/hello.svg" width="1120" alt="Hey, I'm Rakshak D. I work on AI, software and side quests. Make it, test it, make it better." />
+  <img src="assets/hello.svg" width="1120" alt="Hey, I'm Rakshak D. I work on AI, machine learning, and software." />
 </p>
 
 ### A little about me
 
-I'm **Rakshak**, an AI & Machine Learning engineering student at **Malnad College of Engineering, Hassan** (class of **2027**).
+I'm **Rakshak**, an AI & Machine Learning engineering student at **Malnad College of Engineering, Hassan** (expected graduation: **2027**).
 
-I like the part of building AI where the demo ends and the questions begin: *Where did that answer come from? Can I test it? Will it run on a normal machine?* That's taken me into retrieval, local models, automation, and the less glamorous but important work of making things reliable.
+I'm interested in retrieval, local models, and automation. I enjoy building things, testing how well they actually work, and figuring out what to improve.
 
-I also care about how software **feels** to use. A solid backend deserves an interface with some personality.
+I enjoy both backend engineering and designing interfaces that are nice to use.
 
 **Lately:** experimenting with multimodal retrieval, testing boundaries for local agents, and giving old hardware another job.
 
@@ -20,7 +18,7 @@ I also care about how software **feels** to use. A solid backend deserves an int
 - **[SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)** — SEO analysis that keeps deterministic checks separate from optional AI suggestions.
 - **[AURA](https://github.com/Rakshak-D/AURA)** — a self-hosted tasks-and-reminders app, exploring optional local AI.
 
-*These are works in progress, not polished product claims.* [Explore the rest of my repositories](https://github.com/Rakshak-D?tab=repositories).
+[More repositories](https://github.com/Rakshak-D?tab=repositories)
 
 ### The toolbox
 
@@ -40,8 +38,5 @@ I also care about how software **feels** to use. A solid backend deserves an int
 
 ### Say hello
 
-I'm usually somewhere between a rough prototype and a rewrite. If you're exploring something interesting, I'd love to hear about it.
-
 **[GitHub](https://github.com/Rakshak-D)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/rakshak-d/)**
 
-<sub>Made with two SVGs, a few honest sentences, and no animated GitHub stats.</sub>

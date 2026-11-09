@@ -50,5 +50,8 @@ I build with **retrieval, local models, and automation**. I like testing what wo
 
 ## Elsewhere
 
-<a href="https://github.com/Rakshak-D" title="GitHub profile"><img src="https://img.shields.io/badge/GitHub-Rakshak--D-CEF568?style=for-the-badge&logo=github&logoColor=white&labelColor=1D2621" height="27" alt="GitHub — Rakshak-D" /></a>
-<a href="https://www.linkedin.com/in/rakshak-d/" title="LinkedIn profile"><img src="https://img.shields.io/badge/LinkedIn-rakshak--d-2876AD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D2621" height="27" alt="LinkedIn — rakshak-d" /></a>
+<p align="left">
+  <a href="https://github.com/Rakshak-D" title="GitHub profile"><img src="assets/contact-github.svg" width="243" alt="GitHub — Rakshak-D" /></a>
+  <a href="https://www.linkedin.com/in/rakshak-d/" title="LinkedIn profile"><img src="assets/contact-linkedin.svg" width="243" alt="LinkedIn — rakshak-d" /></a>
+  <a href="https://www.instagram.com/31rakshak_d" title="Instagram profile"><img src="assets/contact-instagram.svg" width="243" alt="Instagram — 31rakshak_d" /></a>
+</p>

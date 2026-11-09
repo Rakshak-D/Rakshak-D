@@ -1,66 +1,49 @@
-# Rakshak D
+<!-- A deliberately small, hand-composed GitHub profile. No remote badges, counters, or stock GIFs. -->
 
-## Engineering Field Atlas
+<p align="center">
+  <img src="assets/hello.svg" width="1120" alt="Hey, I'm Rakshak D. I work on AI, software and side quests. Make it, test it, make it better." />
+</p>
 
-*Systems, investigated in the field.*
+### A little about me
 
-I work across AI/ML and application engineering, with a focus on retrieval, automation, evidence, and repeatable evaluation.
+I'm **Rakshak**, an AI & Machine Learning engineering student at **Malnad College of Engineering, Hassan** (class of **2027**).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/survey-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/survey-hero-light.svg">
-  <img width="1200" alt="A cartographic index of separate repositories: RAG-PDF for multimodal retrieval, Sentinel for automation policy, and SEO-Sensei for deterministic checks. It is not a combined architecture diagram." src="assets/survey-hero-light.svg">
-</picture>
+I like the part of building AI where the demo ends and the questions begin: *Where did that answer come from? Can I test it? Will it run on a normal machine?* That's taken me into retrieval, local models, automation, and the less glamorous but important work of making things reliable.
 
-*Separate repositories, read as field sites. This map is an editorial index, not a combined architecture.*
+I also care about how software **feels** to use. A solid backend deserves an interface with some personality.
 
-## Engineering studies
+**Lately:** experimenting with multimodal retrieval, testing boundaries for local agents, and giving old hardware another job.
 
-### [RAG-PDF](https://github.com/Rakshak-D/rag-pdf)
+### A few things on my workbench
 
-**Active development.** Multimodal PDF retrieval with evaluation work; the advanced branch work remains in progress.
+| | |
+| :-- | :-- |
+| **[RAG-PDF](https://github.com/Rakshak-D/rag-pdf)** | An evolving document-understanding app, with text/image retrieval and evaluation work. |
+| **[SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)** | An SEO analysis tool that keeps deterministic checks separate from optional AI suggestions. |
+| **[AURA](https://github.com/Rakshak-D/AURA)** | A self-hosted tasks-and-reminders app, exploring optional local AI. |
 
-### [Sentinel](https://github.com/Rakshak-D/sentinel)
+*These are works in progress, not polished product claims.* [Explore the rest of my repositories](https://github.com/Rakshak-D?tab=repositories).
 
-A local-first automation foundation with a CLI, evidence capture, and explicit policy boundaries.
+### The toolbox
 
-### [SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)
+<p align="center">
+  <img src="assets/toolbox.svg" width="1120" alt="Selected tools: Python, TypeScript, SQL; PyTorch, Ollama, OpenCLIP; ChromaDB, PyMuPDF, SQLite; FastAPI, Django, pytest and Git." />
+</p>
 
-Evidence-first SEO analysis with deterministic checks and optional AI. Redesign and verification work is ongoing.
+<details>
+<summary>Toolbox in plain text</summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/survey-projects-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/survey-projects-light.svg">
-  <img width="1200" alt="Three independent line drawings: a document and lens for retrieval, a policy-boundary study, and an audit sheet for deterministic checks." src="assets/survey-projects-light.svg">
-</picture>
+- **Languages:** Python, TypeScript, SQL
+- **Models:** PyTorch, Ollama, OpenCLIP
+- **Retrieval & data:** ChromaDB, PyMuPDF, SQLite
+- **Build & test:** FastAPI, Django, pytest, Git
 
-*Three project subjects, drawn as independent plates. The Markdown descriptions carry the project details.*
+</details>
 
-## Applications and prototypes
+### Say hello
 
-### [AURA](https://github.com/Rakshak-D/AURA)
+I'm usually somewhere between a rough prototype and a rewrite. If you're exploring something interesting, I'd love to hear about it.
 
-A self-hosted task-and-reminder application foundation, with optional local AI.
+**[GitHub](https://github.com/Rakshak-D)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/rakshak-d/)**
 
-### [RazorResolve](https://github.com/Rakshak-D/razorresolve)
-
-A synthetic-data financial-reconciliation prototype with a deterministic workflow and tests.
-
-### [CLASSROOMS](https://github.com/Rakshak-D/CLASSROOMS)
-
-A Django application for classroom booking and management.
-
-### [Finora](https://github.com/Rakshak-D/Finora)
-
-A market-event intelligence application under development.
-
-## Early-stage investigation
-
-### [Seyvo](https://github.com/Rakshak-D/seyvo)
-
-An early-stage incident-investigation concept documented in architecture notes; its core investigator is not implemented.
-
-## Small experiment
-
-[RPS-Vision](https://github.com/Rakshak-D/RPS-Vision) is a small, optional computer-vision experiment.
-
+<sub>Made with two SVGs, a few honest sentences, and no animated GitHub stats.</sub>

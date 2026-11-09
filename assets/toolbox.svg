@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="390" viewBox="0 0 1120 390" role="img" aria-labelledby="title desc">
+<title id="title">Rakshak's toolbox</title>
+<desc id="desc">A curated toolbox: Languages are Python, TypeScript and SQL. Model work: PyTorch, Ollama, OpenCLIP. Retrieval and data: ChromaDB, PyMuPDF, SQLite. Build and test: FastAPI, Django, pytest and Git.</desc>
+<style>
+.heavy{font-family:Arial,Helvetica,sans-serif;font-weight:900}
+.reg{font-family:Arial,Helvetica,sans-serif}
+.mono{font-family:'Courier New',Courier,monospace}
+</style>
+<rect width="1120" height="390" fill="#19211E"/>
+<rect x="1.5" y="1.5" width="1117" height="387" fill="none" stroke="#46524A" stroke-width="3"/>
+<path d="M319 34V352" stroke="#526156" stroke-width="1.5"/>
+<text x="43" y="66" font-size="13" letter-spacing="2" class="mono" fill="#CBD4C7">FIELD NOTES / 002</text>
+<text x="40" y="148" font-size="74" letter-spacing="-4" class="heavy" fill="#CEF568">TOOL</text>
+<text x="40" y="221" font-size="74" letter-spacing="-4" class="heavy" fill="#CEF568">BOX.</text>
+<path d="M43 245H277" stroke="#CEF568" stroke-width="3"/>
+<text x="43" y="278" font-size="17" class="reg" fill="#F7F5EE">The tools I reach for.</text>
+<text x="43" y="303" font-size="17" class="reg" fill="#F7F5EE">Not a logo collection.</text>
+<g transform="translate(44,333)" fill="#EF4A2D"><rect x="0" y="0" width="11" height="27"/><rect x="18" y="0" width="5" height="27"/><rect x="30" y="0" width="18" height="27"/><rect x="56" y="0" width="4" height="27"/><rect x="67" y="0" width="8" height="27"/><rect x="82" y="0" width="4" height="27"/><rect x="93" y="0" width="15" height="27"/><rect x="115" y="0" width="5" height="27"/></g>
+<text x="355" y="66" font-size="13" letter-spacing="2.2" class="mono" fill="#CEF568">INDEX    /    THINGS I'VE BUILT WITH</text>
+<path d="M355 87H1078" stroke="#526156" stroke-width="1.5"/>
+<text x="355" y="129" font-size="16" class="mono" fill="#EF785C">01  LANGUAGES</text>
+<text x="569" y="131" font-size="26" font-weight="bold" class="reg" fill="#F7F5EE">Python  /  TypeScript  /  SQL</text>
+<path d="M355 158H1078" stroke="#526156" stroke-width="1"/>
+<text x="355" y="197" font-size="16" class="mono" fill="#EF785C">02  MODEL WORK</text>
+<text x="569" y="199" font-size="26" font-weight="bold" class="reg" fill="#F7F5EE">PyTorch  /  Ollama  /  OpenCLIP</text>
+<path d="M355 226H1078" stroke="#526156" stroke-width="1"/>
+<text x="355" y="265" font-size="16" class="mono" fill="#EF785C">03  RETRIEVAL</text>
+<text x="569" y="267" font-size="25" font-weight="bold" class="reg" fill="#F7F5EE">ChromaDB  /  PyMuPDF  /  SQLite</text>
+<path d="M355 294H1078" stroke="#526156" stroke-width="1"/>
+<text x="355" y="333" font-size="16" class="mono" fill="#EF785C">04  BUILD + TEST</text>
+<text x="569" y="334" font-size="26" font-weight="bold" class="reg" fill="#F7F5EE">FastAPI  /  Django  /  pytest  /  Git</text>
+<path d="M355 356H1078" stroke="#526156" stroke-width="1"/>
+</svg>

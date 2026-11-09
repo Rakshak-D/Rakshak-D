@@ -33,7 +33,10 @@ I build with **retrieval, local models, and automation**. I like testing what wo
 ## Tools of the trade
 
 <p align="center">
-  <img src="assets/toolbox.svg" width="100%" alt="Selected languages, AI tools, retrieval tools, and app development technologies, grouped in four rows." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/toolbox-mobile.svg" />
+    <img src="assets/toolbox.svg" width="100%" alt="Selected languages, AI tools, retrieval tools, and app development technologies, grouped in four rows." />
+  </picture>
 </p>
 
 <details>

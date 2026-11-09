@@ -16,11 +16,9 @@ I also care about how software **feels** to use. A solid backend deserves an int
 
 ### A few things on my workbench
 
-| | |
-| :-- | :-- |
-| **[RAG-PDF](https://github.com/Rakshak-D/rag-pdf)** | An evolving document-understanding app, with text/image retrieval and evaluation work. |
-| **[SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)** | An SEO analysis tool that keeps deterministic checks separate from optional AI suggestions. |
-| **[AURA](https://github.com/Rakshak-D/AURA)** | A self-hosted tasks-and-reminders app, exploring optional local AI. |
+- **[RAG-PDF](https://github.com/Rakshak-D/rag-pdf)** — an evolving document-understanding app, with text/image retrieval and evaluation work.
+- **[SEO-Sensei](https://github.com/Rakshak-D/SEO-Sensei)** — SEO analysis that keeps deterministic checks separate from optional AI suggestions.
+- **[AURA](https://github.com/Rakshak-D/AURA)** — a self-hosted tasks-and-reminders app, exploring optional local AI.
 
 *These are works in progress, not polished product claims.* [Explore the rest of my repositories](https://github.com/Rakshak-D?tab=repositories).
 

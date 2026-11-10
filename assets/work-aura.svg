@@ -1,9 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="330" height="182" viewBox="0 0 330 182" role="img" aria-label="AURA: Tasks + reminders"><style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:Courier New,Courier,monospace}.heavy{font-family:Arial,Helvetica,sans-serif;font-weight:900}</style>
-<rect x="1" y="1" width="328" height="180" rx="4" fill="#17221e" stroke="#f8f5ed" stroke-width="2"/>
-<text x="19" y="26" font-size="12" class="mono" font-weight="bold" fill="#f8f5ed">03 / SELECTED WORK</text>
-<path d="M19 36H311" stroke="#f8f5ed" stroke-width="1" opacity=".65"/>
-<text x="19" y="78" font-size="33" font-weight="900" class="sans" letter-spacing="-1.5" fill="#f8f5ed">AURA</text>
-<text x="19" y="105" font-size="14" class="sans" fill="#f8f5ed">Tasks + reminders</text><g transform="translate(256,52)" stroke="#f8f5ed" fill="none" stroke-width="2.8"><rect x="-4" y="7" width="65" height="61" rx="8" fill="#17221e"/><path d="M11 25l5 5l9 -12M11 47l5 5l9 -12M33 24h18M33 46h18"/><circle cx="59" cy="7" r="11" fill="#ef4a2d" stroke="#17221e"/><path d="M59 -1v8l5 4" stroke="#f8f5ed" stroke-width="2.5"/></g>
-<path d="M19 153H311" stroke="#f8f5ed" stroke-width="1" opacity=".5"/>
-<text x="19" y="170" font-size="11" class="mono" letter-spacing=".5" font-weight="bold" fill="#f8f5ed">FASTAPI  /  OPTIONAL AI</text>
-<path d="M287 163h20m-7 -7l7 7l-7 7" fill="none" stroke="#f8f5ed" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="196" viewBox="0 0 340 196" role="img" aria-labelledby="t">
+<title id="t">AURA: Tasks + reminders</title>
+<style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',Courier,monospace}
+.nudge{animation:nudge 2.4s ease-in-out infinite}@keyframes nudge{50%{transform:translateX(5px)}}
+@media (prefers-reduced-motion:reduce){.nudge{animation:none}}</style>
+<rect x="8" y="8" width="326" height="182" fill="#EF4A2D"/>
+<rect x="2" y="2" width="326" height="182" fill="#151A18"/>
+<rect x="20" y="16" width="34" height="20" fill="#F7F5EE"/>
+<text x="26" y="31" font-size="12" class="mono" font-weight="bold" fill="#151A18">03</text>
+<text x="63" y="31" font-size="12" class="mono" font-weight="bold" letter-spacing="1" fill="#F7F5EE">SELECTED WORK</text>
+<path d="M20 46H310" stroke="#F7F5EE" stroke-width="1" opacity=".6"/>
+<text x="20" y="92" font-size="34" font-weight="900" class="sans" letter-spacing="-1.5" fill="#F7F5EE">AURA</text>
+<text x="20" y="119" font-size="14" class="sans" fill="#F7F5EE">Tasks + reminders</text>
+<g transform="translate(246,56)" stroke="#F7F5EE" fill="none" stroke-width="2.8"><rect x="-4" y="7" width="65" height="61" rx="8" fill="#151A18"/><path d="M11 25l5 5l9 -12M11 47l5 5l9 -12M33 24h18M33 46h18"/><circle cx="59" cy="7" r="11" fill="#EF4A2D" stroke="#151A18"/><path d="M59 -1v8l5 4" stroke="#F7F5EE" stroke-width="2.5"/></g>
+<path d="M20 148H310" stroke="#F7F5EE" stroke-width="1" opacity=".5"/>
+<text x="20" y="168" font-size="12" class="mono" letter-spacing=".5" font-weight="bold" fill="#F7F5EE">FASTAPI  /  OPTIONAL AI</text>
+<g class="nudge"><path d="M284 160h22m-8 -8l8 8l-8 8" fill="none" stroke="#F7F5EE" stroke-width="2.2"/></g>
+<rect x="2" y="2" width="326" height="182" fill="none" stroke="#F7F5EE" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="520" viewBox="0 0 560 520" role="img" aria-labelledby="title desc">
+<title id="title">Hello, I am Rakshak D</title>
+<desc id="desc">Compact introduction card: AI, software, and side quests, with an R monogram.</desc>
+<style>
+.heavy{font-family:Arial,Helvetica,sans-serif;font-weight:900}
+.mono{font-family:'Courier New',Courier,monospace}
+.tick{animation:tick 9s linear infinite;transform-origin:925px 216px}
+.wink{animation:wink 4.5s ease-in-out infinite}
+@keyframes tick{to{transform:rotate(360deg)}}
+@keyframes wink{0%,89%,100%{opacity:1}92%,96%{opacity:.08}}
+@media (prefers-reduced-motion:reduce){.tick,.wink{animation:none}}
+</style>
+<rect width="560" height="520" fill="#F7F5EE"/>
+<rect x="28" y="22" width="60" height="35" fill="#151A18"/>
+<text x="39" y="45" font-size="16" class="mono" font-weight="bold" fill="#F7F5EE">R/D</text>
+<text x="104" y="45" font-size="14" letter-spacing="1.9" class="mono" fill="#151A18">AI / ML + SOFTWARE</text>
+<path d="M28 70H532" stroke="#151A18" stroke-width="1.5"/>
+<text x="31" y="112" font-size="19" letter-spacing="3" class="mono" fill="#EF4A2D">HEY THERE. I'M</text>
+<text x="26" y="198" font-size="92" letter-spacing="-5" class="heavy" fill="#151A18">RAKSHAK</text>
+<text x="28" y="290" font-size="98" letter-spacing="-7" class="heavy" fill="#EF4A2D">D.</text>
+<path d="M150 232V288" stroke="#151A18" stroke-width="3"/>
+<text x="168" y="257" font-size="25" class="heavy" fill="#151A18">AI, software,</text>
+<text x="168" y="285" font-size="25" class="heavy" fill="#151A18">and side quests.</text>
+<text x="31" y="364" font-size="15" letter-spacing=".6" class="mono" fill="#151A18">IDEAS,</text>
+<text x="31" y="386" font-size="15" letter-spacing=".6" class="mono" fill="#151A18">EXPERIMENTS &amp;</text>
+<text x="31" y="408" font-size="15" letter-spacing=".6" class="mono" fill="#151A18">A FEW REWRITES</text>
+<path d="M31 432H150" stroke="#151A18" stroke-width="1.5"/>
+<text x="31" y="454" font-size="13" letter-spacing="1" class="mono" fill="#151A18">HASSAN, INDIA</text>
+<text x="31" y="474" font-size="13" letter-spacing="1" class="mono" fill="#151A18">GRADUATING 2027</text>
+<g transform="translate(405 396) scale(.61) translate(-925 -216)">
+<path d="M791 110L1065 73L1105 332L835 357Z" fill="#EF4A2D"/>
+<circle cx="925" cy="216" r="138" fill="#151A18"/>
+<circle cx="925" cy="216" r="119" fill="#CEF568"/>
+<circle cx="925" cy="216" r="97" fill="none" stroke="#151A18" stroke-width="1.5" stroke-dasharray="2 9"/>
+<path d="M882 281V153H935C971 153 983 167 983 189C983 211 970 226 935 227H882" fill="none" stroke="#151A18" stroke-width="22" stroke-linejoin="round" stroke-linecap="square"/>
+<path d="M934 230L992 289" fill="none" stroke="#151A18" stroke-width="22" stroke-linecap="butt"/>
+<g class="tick"><circle cx="925" cy="88" r="14" fill="#EF4A2D" stroke="#151A18" stroke-width="5"/><circle cx="925" cy="88" r="3" fill="#F7F5EE"/></g>
+<g stroke="#151A18" stroke-width="4" stroke-linecap="square" class="wink"><path d="M1046 113V146M1029 130H1063M1034 118L1058 142M1058 118L1034 142"/></g>
+</g>
+<rect x="0" y="500" width="560" height="20" fill="#151A18"/>
+<rect x="0" y="500" width="110" height="20" fill="#CEF568"/>
+<rect x="112" y="500" width="25" height="20" fill="#EF4A2D"/>
+<rect x="0" y="0" width="560" height="520" fill="none" stroke="#151A18" stroke-width="5"/>
+</svg>

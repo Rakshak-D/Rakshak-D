@@ -1,7 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="243" height="36" viewBox="0 0 243 36" role="img" aria-labelledby="title">
-<title id="title">Instagram: 31rakshak_d</title><rect width="243" height="36" rx="4" fill="#17211D"/>
-<path d="M121 0H239Q243 0 243 4V32Q243 36 239 36H121Z" fill="#B83B5D"/>
-<g transform="translate(10 7) scale(.85)" fill="none" stroke="#F8F5ED" stroke-width="2.5"><rect x="2.8" y="2.8" width="18.4" height="18.4" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.6" cy="6.5" r="1.2" fill="#F8F5ED" stroke="none"/></g>
-<text x="39" y="22" font-family="Arial,Helvetica,sans-serif" font-size="10.8" font-weight="700" letter-spacing=".3" fill="#F8F5ED">INSTAGRAM</text>
-<text x="134" y="22" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFFFFF">31rakshak_d</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48" role="img" aria-labelledby="t">
+<title id="t">Instagram: 31rakshak_d</title>
+<style>.sans{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',Courier,monospace}</style>
+<rect x="8" y="8" width="270" height="38" fill="#151A18"/>
+<rect x="2" y="2" width="270" height="38" fill="#EF4A2D"/>
+<rect x="2" y="2" width="138" height="38" fill="#151A18"/>
+<g transform="translate(14,9) scale(.85)" fill="none" stroke="#F7F5EE" stroke-width="2.5"><rect x="2.8" y="2.8" width="18.4" height="18.4" rx="5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.6" cy="6.5" r="1.2" fill="#F7F5EE" stroke="none"/></g>
+<text x="50" y="26.5" font-size="12" class="mono" font-weight="bold" letter-spacing="1" fill="#F7F5EE">INSTAGRAM</text>
+<text x="154" y="26.5" font-size="14" class="sans" font-weight="700" fill="#151A18">31rakshak_d</text>
+<path d="M252 29l10 -10m-8 0h8v8" fill="none" stroke="#151A18" stroke-width="2.2"/>
+<rect x="2" y="2" width="270" height="38" fill="none" stroke="#F7F5EE" stroke-width="4.5"/>
+<rect x="2" y="2" width="270" height="38" fill="none" stroke="#151A18" stroke-width="2.5"/>
 </svg>

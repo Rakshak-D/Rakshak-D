@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="210" viewBox="0 0 560 210" role="img" aria-labelledby="title desc">
+<title id="title">Now</title>
+<desc id="desc">Building retrieval and evaluation pipelines. Exploring local models with Ollama. Shipping small tools that are enjoyable to use.</desc>
+<style>.mono{font-family:'Courier New',Courier,monospace;font-weight:700}
+.blink{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.blink{animation:none}}</style>
+<rect x="8" y="8" width="550" height="200" fill="#CEF568"/>
+<rect x="2" y="2" width="550" height="200" fill="#151A18"/>
+<rect x="2" y="2" width="550" height="40" fill="#222C27"/>
+<circle cx="24" cy="22" r="6" fill="#EF4A2D"/><circle cx="44" cy="22" r="6" fill="#CEF568"/><circle cx="64" cy="22" r="6" fill="#F7F5EE"/>
+<text x="534" y="27" font-size="14" text-anchor="end" letter-spacing="1.5" class="mono" fill="#809489">~/now</text>
+<text x="24" y="78" font-size="16" class="mono" fill="#CEF568">$</text><text x="44" y="78" font-size="16" class="mono" fill="#F7F5EE">now --list</text>
+<text x="24" y="114" font-size="16" class="mono" fill="#EF4A2D">building </text><text x="130" y="114" font-size="16" class="mono" fill="#F7F5EE">retrieval + evaluation pipelines</text>
+<text x="24" y="142" font-size="16" class="mono" fill="#EF4A2D">exploring</text><text x="130" y="142" font-size="16" class="mono" fill="#F7F5EE">local models with Ollama</text>
+<text x="24" y="170" font-size="16" class="mono" fill="#EF4A2D">shipping </text><text x="130" y="170" font-size="16" class="mono" fill="#F7F5EE">small tools that are enjoyable to use</text>
+<rect class="blink" x="516" y="154" width="10" height="18" fill="#CEF568"/>
+<rect x="2" y="2" width="550" height="200" fill="none" stroke="#151A18" stroke-width="2.5"/>
+</svg>
